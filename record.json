@@ -1,9 +1,9 @@
 {
   "edition": "record",
-  "version": "1.1.20",
-  "download_url": "https://github.com/yiqiuye/Fishing-Record-Window-Releases/releases/download/v1.1.20-github/Fishing-Record-Window-1.1.20.jar",
-  "sha256": "e7436cc4a080530f5246a70daba346b4eecff6c29491a8ca6b26e0e46a49be37",
-  "changelog": "钓鱼跨过零点后自动切换到新一天；设置界面的显示内容按钮在下方展开菜单；可分别隐藏钓到时间、分类、状态和长度；隐藏钓到时间时日期翻页栏保留；全部隐藏时精简显示为你钓到了…；更新提示只显示当前最新版，可跨多个旧版本直接更新；QTE排行榜鱼类名称按拼音字母顺序排列；更新提示增加重启期间请勿手动启动游戏的警告",
+  "version": "1.1.19",
+  "download_url": "https://github.com/yiqiuye/Fishing-Record-Window-Releases/releases/download/v1.1.19-github-final/Fishing-Record-Window-1.1.19.jar",
+  "sha256": "06e92d625effaa12a818fdb3e9ad562c4e8ab26e9ccab70e7de33943959ea4d0",
+  "changelog": "钓鱼跨过零点后自动切换到新一天；设置界面的显示内容按钮在下方展开菜单；可分别隐藏钓到时间、分类、状态和长度；隐藏钓到时间时日期翻页栏保留；全部隐藏时精简显示为你钓到了…；更新提示只显示当前最新版，可跨多个旧版本直接更新；QTE排行榜和我的记录鱼类名称均按拼音字母顺序排列；更新提示增加重启期间请勿手动启动游戏的警告",
   "changes": [
     "钓鱼跨过零点后自动切换到新一天",
     "设置界面的显示内容按钮在下方展开菜单",
@@ -11,7 +11,7 @@
     "隐藏钓到时间时日期翻页栏保留",
     "全部隐藏时精简显示为你钓到了…",
     "更新提示只显示当前最新版，可跨多个旧版本直接更新",
-    "QTE排行榜鱼类名称按拼音字母顺序排列",
+    "QTE排行榜和我的记录鱼类名称均按拼音字母顺序排列",
     "更新提示增加重启期间请勿手动启动游戏的警告"
   ]
 }

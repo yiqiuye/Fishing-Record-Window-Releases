@@ -1,8 +1,8 @@
 {
   "edition": "record",
-  "version": "1.1.16",
-  "download_url": "https://github.com/yiqiuye/Fishing-Record-Window-Releases/releases/download/v1.1.16-github/Fishing-Record-Window-1.1.16.jar",
-  "sha256": "abc9a924c46b9c73a22513c76fa4aec6bad2944db97d50ab40541e56973acb9a",
+  "version": "1.1.17",
+  "download_url": "https://github.com/yiqiuye/Fishing-Record-Window-Releases/releases/download/v1.1.17-github/Fishing-Record-Window-1.1.17.jar",
+  "sha256": "3008ef2ab8685312389720c05957d26b306debbce98c213c972cfb23370d72cc",
   "changelog": "钓鱼跨过零点后自动切换到新一天；设置界面的显示内容按钮在下方展开菜单；可分别隐藏钓到时间、分类、状态和长度；隐藏钓到时间时日期翻页栏保留；全部隐藏时精简显示为你钓到了…；更新提示只显示当前最新版，可跨多个旧版本直接更新",
   "changes": [
     "钓鱼跨过零点后自动切换到新一天",

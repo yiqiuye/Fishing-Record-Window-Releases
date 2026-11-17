@@ -1,12 +1,12 @@
 {
   "edition": "record",
-  "version": "1.1.21",
-  "download_url": "https://qiuzhi.pythonanywhere.com/updates/Fishing-Record-Window-1.1.21.jar",
-  "sha256": "d25ed6b932719ee6ac8b765e15a15c8c197b45964bf1c4a1b6f25ce9581b981f",
-  "changelog": "更新提示按当前版本到最新版本分段显示，不重复上一版本内容；修复“我的记录”第二页点击鱼类下拉后自动跳回第一页",
+  "version": "1.1.22",
+  "download_url": "https://qiuzhi.pythonanywhere.com/updates/Fishing-Record-Window-1.1.22.jar",
+  "sha256": "09e65d6847971091c49e4caf523d85b4266059ed3211623fa66da261994c7a04",
+  "changelog": "优化在线玩家目录和QTE排行榜的刷新速度；修复“我的记录”每帧重复排序造成的窗口卡顿",
   "changes": [
-    "更新提示按当前版本到最新版本分段显示，不重复上一版本内容",
-    "修复“我的记录”第二页点击鱼类下拉后自动跳回第一页"
+    "优化在线玩家目录和QTE排行榜的刷新速度",
+    "修复“我的记录”每帧重复排序造成的窗口卡顿"
   ],
   "releases": [
     {
@@ -50,6 +50,13 @@
       "changes": [
         "更新提示按当前版本到最新版本分段显示，不重复上一版本内容",
         "修复“我的记录”第二页点击鱼类下拉后自动跳回第一页"
+      ]
+    },
+    {
+      "version": "1.1.22",
+      "changes": [
+        "优化在线玩家目录和QTE排行榜的刷新速度",
+        "修复“我的记录”每帧重复排序造成的窗口卡顿"
       ]
     }
   ]

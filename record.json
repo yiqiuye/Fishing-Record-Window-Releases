@@ -1,11 +1,11 @@
 {
   "edition": "record",
-  "version": "1.1.23",
-  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Fishing-Record-Window-1.1.23.jar",
-  "sha256": "2ce7f0f8c030d8136a9fd4e485f24331e8e2f6eac7e1900a5083da467503e3ba",
-  "changelog": "缓存玩家列表和头像纹理，减少打开排行榜与玩家目录时的画面卡顿",
+  "version": "1.1.24",
+  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Fishing-Record-Window-1.1.24.jar",
+  "sha256": "ffc4b7483ff8c13859236c58a18b936291723a51098fa43e81c95d474f48e4cf",
+  "changelog": "玩家目录和QTE排行榜改用腾讯云COS快照，提升国内刷新速度",
   "changes": [
-    "缓存玩家列表和头像纹理，减少打开排行榜与玩家目录时的画面卡顿"
+    "玩家目录和QTE排行榜改用腾讯云COS快照，提升国内刷新速度"
   ],
   "releases": [
     {
@@ -62,6 +62,12 @@
       "version": "1.1.23",
       "changes": [
         "缓存玩家列表和头像纹理，减少打开排行榜与玩家目录时的画面卡顿"
+      ]
+    },
+    {
+      "version": "1.1.24",
+      "changes": [
+        "玩家目录和QTE排行榜改用腾讯云COS快照，提升国内刷新速度"
       ]
     }
   ]

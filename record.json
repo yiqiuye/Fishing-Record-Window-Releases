@@ -1,13 +1,10 @@
 {
   "edition": "record",
-  "version": "1.1.22",
-  "download_url": "https://qiuzhi.pythonanywhere.com/updates/Fishing-Record-Window-1.1.22.jar",
-  "sha256": "09e65d6847971091c49e4caf523d85b4266059ed3211623fa66da261994c7a04",
-  "changelog": "优化在线玩家目录和QTE排行榜的刷新速度；修复“我的记录”每帧重复排序造成的窗口卡顿",
-  "changes": [
-    "优化在线玩家目录和QTE排行榜的刷新速度",
-    "修复“我的记录”每帧重复排序造成的窗口卡顿"
-  ],
+  "version": "1.1.23",
+  "download_url": "https://qiuzhi.pythonanywhere.com/updates/Fishing-Record-Window-1.1.23.jar",
+  "sha256": "2ce7f0f8c030d8136a9fd4e485f24331e8e2f6eac7e1900a5083da467503e3ba",
+  "changelog": "缓存玩家列表和头像纹理，减少打开排行榜与玩家目录时的画面卡顿",
+  "changes": "缓存玩家列表和头像纹理，减少打开排行榜与玩家目录时的画面卡顿",
   "releases": [
     {
       "version": "1.1.14",
@@ -57,6 +54,12 @@
       "changes": [
         "优化在线玩家目录和QTE排行榜的刷新速度",
         "修复“我的记录”每帧重复排序造成的窗口卡顿"
+      ]
+    },
+    {
+      "version": "1.1.23",
+      "changes": [
+        "缓存玩家列表和头像纹理，减少打开排行榜与玩家目录时的画面卡顿"
       ]
     }
   ]

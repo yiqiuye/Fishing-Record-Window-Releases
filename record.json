@@ -1,11 +1,11 @@
 {
   "edition": "record",
-  "version": "1.1.24",
-  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Fishing-Record-Window-1.1.24.jar",
-  "sha256": "ffc4b7483ff8c13859236c58a18b936291723a51098fa43e81c95d474f48e4cf",
-  "changelog": "玩家目录和QTE排行榜改用腾讯云COS快照，提升国内刷新速度",
+  "version": "1.1.25",
+  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Fishing-Record-Window-1.1.25.jar",
+  "sha256": "3c11359d35d60dd81b8636f4867966906e8d7478a644cb5c7b2a99dbaac6db9e",
+  "changelog": "修复无限翻页的bug",
   "changes": [
-    "玩家目录和QTE排行榜改用腾讯云COS快照，提升国内刷新速度"
+    "修复无限翻页的bug"
   ],
   "releases": [
     {
@@ -68,6 +68,12 @@
       "version": "1.1.24",
       "changes": [
         "玩家目录和QTE排行榜改用腾讯云COS快照，提升国内刷新速度"
+      ]
+    },
+    {
+      "version": "1.1.25",
+      "changes": [
+        "修复无限翻页的bug"
       ]
     }
   ]

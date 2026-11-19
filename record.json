@@ -1,11 +1,12 @@
 {
   "edition": "record",
-  "version": "1.1.25",
-  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Fishing-Record-Window-1.1.25.jar",
-  "sha256": "3c11359d35d60dd81b8636f4867966906e8d7478a644cb5c7b2a99dbaac6db9e",
-  "changelog": "修复无限翻页的bug",
+  "version": "1.1.26",
+  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Fishing-Record-Window-1.1.26.jar",
+  "sha256": "08b602c563a41ed1b8cbc7d170e1db58b371c955073898f7e4a3c92807c13058",
+  "changelog": "不再生成 .qte-old 备份文件，并自动清理已有文件；更新检查改用腾讯云清单，减少超时导致不提示",
   "changes": [
-    "修复无限翻页的bug"
+    "不再生成 .qte-old 备份文件，并自动清理已有文件",
+    "更新检查改用腾讯云清单，减少超时导致不提示"
   ],
   "releases": [
     {
@@ -74,6 +75,13 @@
       "version": "1.1.25",
       "changes": [
         "修复无限翻页的bug"
+      ]
+    },
+    {
+      "version": "1.1.26",
+      "changes": [
+        "不再生成 .qte-old 备份文件，并自动清理已有文件",
+        "更新检查改用腾讯云清单，减少超时导致不提示"
       ]
     }
   ]

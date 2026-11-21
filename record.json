@@ -1,8 +1,8 @@
 {
   "edition": "record",
-  "version": "1.1.29",
-  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Fishing-Record-Window-1.1.29.jar",
-  "sha256": "2cb64d0304a4b1616d31032fb4f9941dfa8d5c6611e9c462353dd97326205d4f",
+  "version": "1.1.30",
+  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Fishing-Record-Window-1.1.30.jar",
+  "sha256": "0748369bc1b65be9a3cb8e5c36f0247b137bc41cebd3a3ad98964515ce7dafb4",
   "changelog": "",
   "changes": [],
   "releases": [
@@ -90,6 +90,10 @@
     },
     {
       "version": "1.1.29",
+      "changes": []
+    },
+    {
+      "version": "1.1.30",
       "changes": []
     }
   ]

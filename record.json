@@ -1,11 +1,13 @@
 {
   "edition": "record",
-  "version": "1.1.30",
-  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Fishing-Record-Window-1.1.30.jar",
-  "sha256": "7400ff1de93b3c8958ea71a9b6f8625a2380696e3906b524795247f45141f972",
-  "changelog": "修复一些小bug",
+  "version": "1.1.31",
+  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Fishing-Record-Window-1.1.31.jar",
+  "sha256": "a5de3f87eea95a4aacb72b877eae9595c8f6feab502b38e490f5832cc5c74d73",
+  "changelog": "新增“只记录 QTE 类型”开关，默认关闭；开启后只写入 QTE，关闭时普通和 QTE 都照常记录；切换该开关不会删除或隐藏此前已有的记录；记录窗口的“显示内容”新增“QTE耗时与结果”，默认关闭，开启后显示耗时和成功/失败",
   "changes": [
-    "修复一些小bug"
+    "新增“只记录 QTE 类型”开关，默认关闭；开启后只写入 QTE，关闭时普通和 QTE 都照常记录",
+    "切换该开关不会删除或隐藏此前已有的记录",
+    "记录窗口的“显示内容”新增“QTE耗时与结果”，默认关闭，开启后显示耗时和成功/失败"
   ],
   "releases": [
     {
@@ -98,6 +100,14 @@
       "version": "1.1.30",
       "changes": [
         "修复一些小bug"
+      ]
+    },
+    {
+      "version": "1.1.31",
+      "changes": [
+        "新增“只记录 QTE 类型”开关，默认关闭；开启后只写入 QTE，关闭时普通和 QTE 都照常记录",
+        "切换该开关不会删除或隐藏此前已有的记录",
+        "记录窗口的“显示内容”新增“QTE耗时与结果”，默认关闭，开启后显示耗时和成功/失败"
       ]
     }
   ]
